@@ -6,4 +6,4 @@ Leetcode 2020 June Challenge
 |Week 2| O |  | O | O |  |  |  |
 |Week 3|  |  |  |  |  |  |  |
 |Week 4|  |  |  |  | O | O |  |
-|Week 5|  |  |
+|Week 5| O |  |

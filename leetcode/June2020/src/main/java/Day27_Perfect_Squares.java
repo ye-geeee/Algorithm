@@ -20,7 +20,6 @@ public class Day27_Perfect_Squares {
                         res[i][j] = Math.min(res[i-1][j], res[i][j - (i * i)] + 1);
                     }
                 }
-                int x = 0;
             }
 
             return res[maxRoot][n];
