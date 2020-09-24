@@ -24,7 +24,6 @@ public class Solution {
                 numInBridge++;
                 inIdx++;
             }
-            int x = 0;
         }
 
         return timestamp;
