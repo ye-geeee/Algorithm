@@ -1,4 +1,4 @@
-package Stack_Queue;
+package 주식가격;
 
 import java.util.Arrays;
 import java.util.Stack;
@@ -38,9 +38,7 @@ class Solution {
 
         return answer;
     }
-}
 
-public class 주식가격 {
     public static void main(String[] args) {
         int[] prices = {1, 2, 3, 2, 3};
         System.out.println(Arrays.toString(new Solution().solution(prices)));
