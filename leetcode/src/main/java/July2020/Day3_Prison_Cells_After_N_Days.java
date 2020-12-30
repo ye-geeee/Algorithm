@@ -16,7 +16,7 @@ public class Day3_Prison_Cells_After_N_Days {
         System.out.println();
     }
 
-    private class Solution {
+    static class Solution {
         public int[] prisonAfterNDays(int[] cells, int N) {
             int[] res = new int[cells.length];
 
