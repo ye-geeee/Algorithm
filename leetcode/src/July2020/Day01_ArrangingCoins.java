@@ -1,3 +1,5 @@
+package src.July2020;
+
 public class Day01_ArrangingCoins {
     class Solution {
         public int arrangeCoins(final int n) {
