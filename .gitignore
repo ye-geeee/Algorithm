@@ -1,13 +1,13 @@
-leetcode/**/.DS_Store
-leetcode/**/.gradle/
-leetcode/**/build.gradle
-leetcode/**/build/
-leetcode/**/.idea/
-leetcode/**/.gradle/
-leetcode/**/gradle/
-leetcode/**/gradlew
-leetcode/**/gradlew.bat
-leetcode/**/settings.gradle
+leetcode_old/**/.DS_Store
+leetcode_old/**/.gradle/
+leetcode_old/**/build.gradle
+leetcode_old/**/build/
+leetcode_old/**/.idea/
+leetcode_old/**/.gradle/
+leetcode_old/**/gradle/
+leetcode_old/**/gradlew
+leetcode_old/**/gradlew.bat
+leetcode_old/**/settings.gradle
 
 .DS_Store
 .gradle/
