@@ -1,4 +1,4 @@
-package src.July2020;
+package July2020;
 
 public class Day14_Angles_Between_Hands_Of_A_Clock {
 

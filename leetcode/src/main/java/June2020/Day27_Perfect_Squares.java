@@ -1,4 +1,4 @@
-package src.June2020;
+package June2020;
 
 public class Day27_Perfect_Squares {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package src.June2020;
+package June2020;
 
 import java.util.Arrays;
 import java.util.Comparator;

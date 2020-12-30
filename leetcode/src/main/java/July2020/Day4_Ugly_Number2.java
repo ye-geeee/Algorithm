@@ -1,4 +1,4 @@
-package src.July2020;
+package July2020;
 
 public class Day4_Ugly_Number2 {
 

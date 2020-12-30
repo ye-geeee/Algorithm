@@ -1,4 +1,4 @@
-package src.June2020;
+package June2020;
 
 public class Day7_Coin_Change_2 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package src.June2020;
+package June2020;
 
 public class Day8_Power_Of_Two {
     public static void main(String[] args) {

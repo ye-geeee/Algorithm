@@ -1,4 +1,4 @@
-package src.July2020;
+package July2020;
 
 public class Day13_Same_Tree {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package src.June2020;
+package June2020;
 
 public class Day11_Sort_Colors {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package src.June2020;
+package June2020;
 
 public class Day29_Unique_Path {
     public static void main(String[] args) {

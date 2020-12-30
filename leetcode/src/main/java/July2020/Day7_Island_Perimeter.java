@@ -1,4 +1,4 @@
-package src.July2020;
+package July2020;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

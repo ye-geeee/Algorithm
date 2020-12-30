@@ -1,4 +1,4 @@
-package src.June2020;
+package June2020;
 
 public class Day26_Sum_Root_to_Leaf_Numbers {
     public static void main(String[] args) {
