@@ -12,13 +12,13 @@ public class Day03_Beautiful_Arrangement {
         }
 
         public int countArrangementRecursive(int n, int index, boolean[] visited) {
-            if (index > n) return 1;
+            if (index < 1) return 1;
             int res = 0;
 
-            for (int i = 1; i <= n; i++) {
+            for (int i = n; i >= 1; i--) {
                 if (!visited[i] && (index % i == 0 || i % index == 0)) {
                     visited[i] = true;
-                    res += countArrangementRecursive(n, index + 1, visited);
+                    res += countArrangementRecursive(n, index - 1, visited);
                     visited[i] = false;
                 }
             }
