@@ -16,7 +16,7 @@ public class Day28_Smallest_String_With_A_Given_Numeric_Value {
             Arrays.fill(res, n - zLen, n, 'z');
 
             if (zLen < n) {
-                Arrays.fill(res, n - zLen - 1, n - zLen, (char)('a' + notzVal));
+                Arrays.fill(res, n - zLen - 1, n - zLen, (char) ('a' + notzVal));
                 Arrays.fill(res, 0, n - zLen - 1, 'a');
             }
 
